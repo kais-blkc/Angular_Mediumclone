@@ -1,6 +1,6 @@
 export interface RegisterRequestInterface {
   user: {
-    emai: string;
+    email: string;
     name: string;
     password: string;
   };
